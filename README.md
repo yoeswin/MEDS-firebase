@@ -7,4 +7,4 @@ An android app to get details of diseases and their symptoms using firebase.
 * admin login-update and edit details
 * logout
 
-Using firebase authentication databse and analytics.
+Using firebase ,authentication ,database and analytics.
