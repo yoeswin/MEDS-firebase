@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">madproject</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="re_enter_password">Re-enter Password</string>
+    <string name="reg_no">Reg-no</string>
+    <string name="signup">signup</string>
+    <string name="no_account_yet_create_one">No account yet? Create one</string>
+    <string name="name">Name</string>
+</resources>

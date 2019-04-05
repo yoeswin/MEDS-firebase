@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "127128933164",
+    "firebase_url": "https://madlab-c335b.firebaseio.com",
+    "project_id": "madlab-c335b",
+    "storage_bucket": "madlab-c335b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127128933164:android:f13084763507bce0",
+        "android_client_info": {
+          "package_name": "com.education.sword.madproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127128933164-4inbbnklr0ehdf9qr01ek8njhhfadvtr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqE86BQcGD5lyDq-xHp5GamH46HHP9MHU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
