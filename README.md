@@ -9,4 +9,4 @@ An android app to get details of diseases and their symptoms using firebase.
 
 Using firebase ,authentication ,database and analytics.
 
-<img src="Screenshot_2019-04-05-15-13-23.png" ></img>
+<img src="screenshots/Screenshot_2019-04-05-15-13-23.png" ></img>
